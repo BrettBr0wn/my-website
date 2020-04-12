@@ -21,8 +21,8 @@
 title: Brett Blue | Technical Writer
 email: brettmblue@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a technical writer who specializes in creating and maintaining clear, concise documentation to users. 
-  I am familiar writing for both technical and non-technical audiences.
+  I am a technical writer who is passionate about distilling complex information into an easy-to-read format for users. I enjoy using my technical background and communication expertise to create useful documentation for both end-users and developers.  
+
 baseurl: ""
 url: "https://brettblue.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  BrettBr0wn

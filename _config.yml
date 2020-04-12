@@ -21,15 +21,11 @@
 title: Brett Blue | Technical Writer
 email: brettmblue@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-<<<<<<< HEAD
-  Brett Blue: Technical Writing
+  I am a technical writer who specializes in creating and maintaining clear, concise documentation to users. 
+  I am familiar writing for both technical and non-technical audiences.
 baseurl: ""
 url: "https://brettblue.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  BrettBr0wn
-=======
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://brettblue.io" # the base hostname & protocol for your site, e.g. http://example.com
 

@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Resume"
-date:   2020-04-08 20:11:09 -0600
-categories: jekyll update
+date:   
+categories: 
 ---
 Brett Brown	
 WORK HISTORY		FAST ENTERPRISES (June 2016 – Present)

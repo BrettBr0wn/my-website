@@ -1,29 +1,38 @@
 ---
-layout: post
+layout: page
 title:  "Resume"
 date:   2020-04-08 20:11:09 -0600
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Brett Brown	
+WORK HISTORY		FAST ENTERPRISES (June 2016 – Present)
+Technical Writer
+•	Manage the creation of and requests for developer documentation
+•	Track new development and delegate documentation to technical writers and trainers
+•	Review, document, and release service pack updates for the software
+•	Facilitate new hire training and create training materials
+•	Manage software escrow for over 70 clients
+•	Moderate and create communication for an internal client forum
+•	Devise and enforce documentation standards for an internal code repository
+•	Compile and document new product features (release notes)
+•	Engage in UX reviews across all product areas
+•	Leverage G Suite tools to promote organization and efficiencies for numerous teams
+TDS TELECOM (December 2014 – May 2016)
+IT Architect Intern
+•	Assembled bi-yearly revisions of TDS’s IT technology roadmap, contributing to the organization of reference materials
+•	Created reference architecture documents for our wireline and cable businesses
+•	Maintained a Python script to email the team based on the contents of a spreadsheet
+•	Contributed to a software requirement summary document by constructing visual mockups and written functionality descriptions for a data and voice usage portal
+•	Participated in an initiative to lead the business in a transition to SharePoint
+UNIVERSITY OF WISCONSIN HOUSING SERVICES (August 2013 – May 2014)
+Student Custodian
+•	Collaborated with small custodial teams to accomplish time-sensitive goals
+EDUCATION		UNIVERSITY OF WISCONSIN-MADISON (September 2013 – May 2016)
+Bachelor of Science in Computer Science
 
-Jekyll requires blog post files to be named according to the following format:
+SKILLS		•	Clear and concise technical communication
+•	Researching and distilling complex information
+•	Experience with Python, JavaScript (Google Apps Script), Java, C, VBA, VB.NET, and SQL 
+•	Snagit, G Suite, MS Office, Visio, Adobe Photoshop
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/

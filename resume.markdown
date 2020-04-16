@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Resume"
-permalink: /resume.markdown
+permalink: /resume/
 ---
 Brett Brown	
 WORK HISTORY		FAST ENTERPRISES (June 2016 – Present)

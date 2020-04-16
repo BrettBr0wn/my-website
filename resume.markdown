@@ -1,8 +1,7 @@
 ---
 layout: page
 title:  "Resume"
-date:   
-categories: 
+permalink: /resume/
 ---
 Brett Brown	
 WORK HISTORY		FAST ENTERPRISES (June 2016 – Present)

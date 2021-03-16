@@ -4,4 +4,3 @@
 
 layout: default
 ---
-This is a test of adding some content.
